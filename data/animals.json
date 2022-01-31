@@ -117,6 +117,36 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "barry",
+      "species": "cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "barry",
+      "species": "cow",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "happy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "lemon",
+      "species": "bear",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
